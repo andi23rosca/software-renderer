@@ -1,0 +1,12 @@
+{
+  "name": "software-renderer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "vite"
+  },
+  "devDependencies": {
+    "vite": "^3.1.4"
+  }
+}
